@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Produk</name>
+   <tag></tag>
+   <elementGuidId>a16cef59-1100-4aeb-a829-19d43d6dd1b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.has-child > a > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>47911a45-c702-4607-b5b6-5b50171f258d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Produk</value>
+      <webElementGuid>268b0524-c40f-4aee-9fbc-415210f53b6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-nav-main&quot;)/div[@class=&quot;row g-0 justify-content-between&quot;]/div[@class=&quot;col-12 col-xl-auto col-left&quot;]/ul[@class=&quot;nav drop-menu&quot;]/li[@class=&quot;has-child&quot;]/a[1]/span[1]</value>
+      <webElementGuid>dfff0034-6c16-4759-83f4-d504f69125d3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='top-nav-main']/div/div/ul/li[2]/a/span</value>
+      <webElementGuid>32fe065f-a2e6-4dd4-8465-afcd44e2304f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Promo'])[1]/following::span[1]</value>
+      <webElementGuid>b8c321e4-ba1c-4556-be93-5f763927aebb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::span[2]</value>
+      <webElementGuid>d5d03646-b2d5-4c6a-8d61-62e0af100dcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pembiayaan Multiguna'])[1]/preceding::span[1]</value>
+      <webElementGuid>b0bf8eb0-5e29-41f1-9614-7054159d5797</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MotorKu'])[1]/preceding::span[2]</value>
+      <webElementGuid>894c8fe2-70e0-4bc1-a09c-0a0464f6b20c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Produk']/parent::*</value>
+      <webElementGuid>5066d721-f727-4e14-aba0-b93d81a15897</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/span</value>
+      <webElementGuid>554e2893-e422-467f-8a1a-52b6f514abbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Produk' or . = 'Produk')]</value>
+      <webElementGuid>a68b198b-7d4b-4bf1-88ac-c4c5fa9652b3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

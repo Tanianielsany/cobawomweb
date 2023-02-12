@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_MobilKu</name>
+   <tag></tag>
+   <elementGuidId>d7522095-1864-4aa6-8757-ffaa688e27f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='top-nav-main']/div/div/ul/li[2]/div/ul/li/div/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d16cb903-3285-4514-8d79-f42fb69de040</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/mobilku</value>
+      <webElementGuid>52408f27-fc47-44ba-a886-9ab9ab97742f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                                MobilKu
+                                                            </value>
+      <webElementGuid>980157fa-78bd-4aaf-9d7f-97e23d7cecc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-nav-main&quot;)/div[@class=&quot;row g-0 justify-content-between&quot;]/div[@class=&quot;col-12 col-xl-auto col-left&quot;]/ul[@class=&quot;nav drop-menu&quot;]/li[@class=&quot;has-child&quot;]/div[@class=&quot;is-child&quot;]/ul[1]/li[@class=&quot;has-child&quot;]/div[@class=&quot;is-child&quot;]/ul[1]/li[2]/a[1]</value>
+      <webElementGuid>29c2df55-b754-4b91-ace9-250237a03ded</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='top-nav-main']/div/div/ul/li[2]/div/ul/li/div/ul/li[2]/a</value>
+      <webElementGuid>8d2a4791-dcc6-4790-8548-ba446e241fde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MotorKu'])[1]/following::a[1]</value>
+      <webElementGuid>b8333d24-3b8b-403c-8def-2e6620625424</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pembiayaan Multiguna'])[1]/following::a[2]</value>
+      <webElementGuid>96d7f867-672e-48e7-a555-b2df1623a23b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pembiayaan Motor Baru'])[1]/preceding::a[1]</value>
+      <webElementGuid>36ef57b7-2958-4968-923e-583f283c3f12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/mobilku')]</value>
+      <webElementGuid>05ec29d5-680a-4977-9886-84f94a44d381</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/ul/li/div/ul/li[2]/a</value>
+      <webElementGuid>6562990b-1b24-45e8-9f29-6389903444c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/mobilku' and (text() = '
+                                                                MobilKu
+                                                            ' or . = '
+                                                                MobilKu
+                                                            ')]</value>
+      <webElementGuid>1902b871-fdcf-4ed1-bcee-dde8c3816d46</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

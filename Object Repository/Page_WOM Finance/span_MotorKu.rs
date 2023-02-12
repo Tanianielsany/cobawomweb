@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_MotorKu</name>
+   <tag></tag>
+   <elementGuidId>3196c8a9-3713-4c93-a787-20bc8b16f480</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='top-nav-main']/div/div/ul/li[2]/div/ul/li/div/ul/li/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.is-child > ul > li.has-child > div.is-child > ul > li > a > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>57e92a42-546f-4b91-8266-2837aef53213</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MotorKu</value>
+      <webElementGuid>63d8c9b5-4513-4326-8b1c-e87696949060</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-nav-main&quot;)/div[@class=&quot;row g-0 justify-content-between&quot;]/div[@class=&quot;col-12 col-xl-auto col-left&quot;]/ul[@class=&quot;nav drop-menu&quot;]/li[@class=&quot;has-child&quot;]/div[@class=&quot;is-child&quot;]/ul[1]/li[@class=&quot;has-child&quot;]/div[@class=&quot;is-child&quot;]/ul[1]/li[1]/a[1]/span[1]</value>
+      <webElementGuid>b34c6b53-5f32-44f8-9004-a7f841065cf2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='top-nav-main']/div/div/ul/li[2]/div/ul/li/div/ul/li/a/span</value>
+      <webElementGuid>5658268d-b068-4912-a05b-a863b5f5ced3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pembiayaan Multiguna'])[1]/following::span[1]</value>
+      <webElementGuid>9fa88a1d-f066-4dbb-a44c-a6c96d7435a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Produk'])[1]/following::span[2]</value>
+      <webElementGuid>285723a5-4387-411f-9a49-a95530e2093b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MobilKu'])[1]/preceding::span[1]</value>
+      <webElementGuid>deb6db25-ba9b-4bbf-b765-0b3e5748da19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pembiayaan Motor Baru'])[1]/preceding::span[2]</value>
+      <webElementGuid>66f21625-4161-494a-a35b-23e0970e8b24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='MotorKu']/parent::*</value>
+      <webElementGuid>fb288117-4b4e-437f-86c0-a992bb88c6be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/ul/li/div/ul/li/a/span</value>
+      <webElementGuid>667a5f25-e3a3-4d4a-8f27-7d282989fd46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'MotorKu' or . = 'MotorKu')]</value>
+      <webElementGuid>88f270f9-cffd-4d86-bcce-23e788f9ce50</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

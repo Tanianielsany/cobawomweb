@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Produk</name>
+   <tag></tag>
+   <elementGuidId>5fb5b03e-9432-4a7f-a795-c9aea8a5f05b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='top-nav-main']/div/div/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.has-child > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a7bdc5bf-5ee5-452b-ab54-1663060440e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0);</value>
+      <webElementGuid>8161cf80-630e-44f0-b6d6-15ce4c4b5a89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                        Produk
+                                    </value>
+      <webElementGuid>d4ba3fbe-3732-4d1d-848b-8f375977bdd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-nav-main&quot;)/div[@class=&quot;row g-0 justify-content-between&quot;]/div[@class=&quot;col-12 col-xl-auto col-left&quot;]/ul[@class=&quot;nav drop-menu&quot;]/li[@class=&quot;has-child&quot;]/a[1]</value>
+      <webElementGuid>d7bd332b-eea2-465b-b69b-49d66e25a40f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='top-nav-main']/div/div/ul/li[2]/a</value>
+      <webElementGuid>e8d632c9-420f-4b5a-8459-2f4637bbabab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Promo'])[1]/following::a[1]</value>
+      <webElementGuid>3242c659-df39-4ca7-9942-ced3d78ad451</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::a[3]</value>
+      <webElementGuid>fb3dbe33-02c8-4968-baab-c2ed458115c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pembiayaan Multiguna'])[1]/preceding::a[1]</value>
+      <webElementGuid>03cf82e9-52a5-4930-91e8-92751212c0d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0);')])[2]</value>
+      <webElementGuid>a06c5ade-7daa-4083-a8c2-5d52b07433df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/ul/li[2]/a</value>
+      <webElementGuid>1a01c577-c9b7-4ae5-a999-be4d098e0b4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0);' and (text() = '
+                                        Produk
+                                    ' or . = '
+                                        Produk
+                                    ')]</value>
+      <webElementGuid>66ab8c82-4515-4efb-b731-3c9f54791406</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
